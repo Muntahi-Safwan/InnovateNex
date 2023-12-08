@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Apple",
+        "brand_img": "https://www.templatemonkey.com/blog/wp-content/uploads/2021/04/apple-branding-history.png"
+    },
+    {
+        "id": 2,
+        "name": "Google",
+        "brand_img": "https://storage.googleapis.com/gd-prod/images/a910d418-7123-4bc4-aa3b-ef7e25e74ae6.81843175e48a9129.webp"
+    },
+    {
+        "id": 3,
+        "name": "Samsung",
+        "brand_img": "https://images.samsung.com/is/image/samsung/assets/bd/about-us/brand/logo/mo/360_197_1.png?$FB_TYPE_B_PNG$"
+    },
+    {
+        "id": 4,
+        "name": "Dell",
+        "brand_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Dell_Logo.png/800px-Dell_Logo.png"
+    },
+    {
+        "id": 5,
+        "name": "Xiaomi",
+        "brand_img": "https://images.firstpost.com/wp-content/uploads/2021/08/XiaomiLogoNew2.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Microsoft",
+        "brand_img": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWCZER?ver=1433&q=90&m=6&h=195&w=348&b=%23FFFFFFFF&l=f&o=t&aim=true"
+    }
+]
